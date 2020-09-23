@@ -5,7 +5,7 @@
 
 ### Contenido 
 ## :green_book: Unidad 1
-- [CC0.1 Reto en clase](/blog/C0.1_HernandezQuezada_JMM.md)
+- [C0.1 Reto en clase](/blog/C0.1_HernandezQuezada_JMM.md)
 - [C0.2 Reto en clase](/blog/C0.2_HernandezQuezada_jmm.md)
 - [C1.1 Reto en clase](/blog/C1.1_HernadezQuezada_JMM.md)
   
