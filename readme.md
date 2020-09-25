@@ -27,7 +27,7 @@ Debilidades Python, Java y SQL
 ## :green_book: Unidad 1
 - [C0.1 Integrar Equipos de Trabajo](/blog/C0.1_HernandezQuezada_JMM.md)
 - [C0.2 Cuestionario I4.0](/blog/C0.2_HernandezQuezada_jmm.md)
-- [C1.1 Cuestionario Electrónica Básica y sus Elementos](/blog/C1.1_HernadezQuezada_JMM.md)
+- [C1.1 Cuestionario Electrónica Básica y sus Elementos](/blog/C1.1_HernandezQuezada_JMM.md)
 - [C1.2 Circuito Electrónico Básico](/blog/C1.2_HernadezQuezada_JMM.md) 
   
 ## :blue_book: Unidad 2
