@@ -29,6 +29,7 @@ Debilidades Python, Java y SQL
 - [C0.2 Cuestionario I4.0](/blog/C0.2_HernandezQuezada_jmm.md)
 - [C1.1 Cuestionario Electrónica Básica y sus Elementos](/blog/C1.1_HernandezQuezada_JMM.md)
 - [C1.2 Circuito Electrónico Básico](/blog/C1.2_HernandezQuezada_JMM.md) 
+- [C1.3 Circuito electrónico divisor de tension](/blog/C1.3_HernandezQuezada_JMM.md)
   
 ## :blue_book: Unidad 2
 - Pendiente
